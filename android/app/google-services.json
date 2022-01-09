@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1019530439629",
+    "project_id": "clapapp-b4d6a",
+    "storage_bucket": "clapapp-b4d6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019530439629:android:1b2b352dd27a1f71dff284",
+        "android_client_info": {
+          "package_name": "emergence.infotech.clapapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019530439629-9tg11b7og6mhu13ttedet8v4mvr6rlpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr7CIo5RC9AC2u3V2RmEjunAg6itkUV-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019530439629-9tg11b7og6mhu13ttedet8v4mvr6rlpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
